@@ -1,0 +1,17 @@
+﻿Построение начато 09.09.2022 8:12:47.
+     1>Проект "C:\Users\student\Desktop\LLab1-main\lab111\lab111\lab111.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab111.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         lab111.vcxproj -> C:\Users\student\Desktop\LLab1-main\lab111\Debug\lab111.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab111.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab111.lastbuildstate".
+     1>Построение проекта "C:\Users\student\Desktop\LLab1-main\lab111\lab111\lab111.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.04
